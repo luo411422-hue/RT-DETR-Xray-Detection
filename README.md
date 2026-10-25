@@ -68,8 +68,8 @@ flowchart LR
 ### 1. 安装依赖
 
 ```bash
-git clone https://github.com/luo411422-hue/x-.git
-cd x-
+git clone https://github.com/luo411422-hue/RT-DETR-Xray-Detection.git
+cd RT-DETR-Xray-Detection
 python -m venv .venv
 pip install -r requirements.txt
 ```
