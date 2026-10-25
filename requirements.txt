@@ -1,0 +1,13 @@
+numpy
+opencv-python
+Pillow
+PyYAML
+PyQt5
+streamlit
+streamlit-webrtc
+av
+tqdm
+pandas
+matplotlib
+torch
+torchvision

@@ -1,9 +1,0 @@
-model_path: E:\paper\transformer-master\pyqt-master\weight\best.pt
-iou_thres: 0.0
-conf_thres: 0.5 #置信度阈值（Confidence Threshold）
-device: 0 # (0 for cuda:0) or (-1 for cpu)
-names: [
-    "Gun", "Knife", "Wrench", "Pliers", "Scissors"
-]
-imgsz: [640, 640] #所有图片在推理前统一缩放到：640x640
-model_type: rtdetr
